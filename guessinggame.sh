@@ -22,7 +22,7 @@ function guessthegame {
 		else	
 			echo "This is correct. Congrats!"
 			echo "Program ended."
-			break
+			break 
 		fi
 	done
 }
